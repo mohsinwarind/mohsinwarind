@@ -2,7 +2,7 @@
 <h3 align="center">A Computer Enthusiast from Earth</h3>
 
 - 🔭 I’m currently doing **Undergrad in CS** 
-- 👨‍💻 All of my projects are available at [https://mohsinwarind.github.io/mohsinramzan/](https://mohsinwarind.github.io/mohsinramzan/)
+- 👨‍💻 All of my projects are available at [mohsinwarind](https://mohsinwarind.github.io/mohsinramzan/)
 
 - 📫 How to reach me **mohsinramzanyt@gmail.com**
 
