@@ -9,6 +9,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=mohsinwarind.mohsinwarind&"  />
+</div>
+
+###
+
 <h1 align="center">Hey ! I'm Mohsin</h1>
 
 ###
@@ -52,5 +58,11 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mohsinwarind&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
 
 ###
