@@ -8,11 +8,11 @@
 </div>
 
 ###
-
+<!--
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mohsinwarind.mohsinwarind&"  />
 </div>
-
+-->
 ###
 
 <h1 align="center">Hey ! I'm Mohsin</h1>
