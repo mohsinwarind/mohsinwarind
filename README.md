@@ -9,11 +9,11 @@
 
 ###
 
-<!--  
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=mohsinwarind.mohsinwarind&"  />
 </div>
--->
+
+###
 
 <h1 align="center">Hey ! I'm Mohsin</h1>
 
@@ -62,7 +62,10 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mohsinwarind&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohsinwarind&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsinwarind&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=Languages%20Used" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=mohsinwarind&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinwarind&theme=github-dark&hide_border=true&area=true&hide_title=true" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
